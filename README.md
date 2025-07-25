@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently Pursuing B.Tech in ECE
-- 🌱 I’m currently learning Python for AI/ML
+- 🌱 I’m currently learning Web Development
 - 💬 Ask me about Electronics and Software concatenation
 - ⚡ Fun fact: I'm a Programmer
 
